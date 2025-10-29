@@ -1,0 +1,11 @@
+{
+  "name": "n8n-onrender",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx n8n"
+  },
+  "dependencies": {
+    "n8n": "^1.81.1"
+  }
+}
